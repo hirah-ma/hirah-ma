@@ -1,8 +1,11 @@
-# Hey, I'm Hirah 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180§ion=header&text=Hey,%20I'm%20Hirah%20%F0%9F%91%8B&fontSize=42&animation=fadeIn&fontColor=ffffff)
 
 **AI Engineer crafting Python-powered solutions across ML, GenAI, RAG & Automation**
 
 I build agentic AI systems, RAG pipelines, full-stack apps, and automation tools — working solo across the entire stack, from data pipeline to deployed product.
+
+![Visitors](https://komarev.com/ghpvc/?username=hirah-ma&color=blueviolet&style=flat)
+![Profile Views](https://img.shields.io/badge/dynamic-badge?style=flat)
 
 ---
 
@@ -67,10 +70,16 @@ I build agentic AI systems, RAG pipelines, full-stack apps, and automation tools
 
 ---
 
-### 📈 Activity
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hirah-ma&hide_border=true&theme=default)
+### 📊 GitHub Stats
+![Hirah's GitHub stats](https://github-readme-stats.vercel.app/api?username=hirah-ma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hirah-ma&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hirah-ma&theme=tokyonight&hide_border=true)
 
 ---
 
 ### 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hirah-mohammadi-afroze-21a690280/)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100§ion=footer)
